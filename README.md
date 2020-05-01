@@ -58,6 +58,11 @@ The following task is advanced and therefore optional.
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
 
+Final Result
+Below is a snapshot of my dashboard, please run the html to view the webpage of the dashboard
+
+![Weekly Washing Frequency Gauge](Images/My Dashboard.jpg)
+
 ## Deployment
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
